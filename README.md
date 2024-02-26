@@ -1,2 +1,3 @@
 # bupar_data
-data for bupar analysis
+This repository contains the data for the bupar analysis:
+
